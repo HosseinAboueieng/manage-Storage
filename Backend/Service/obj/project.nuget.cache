@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmicklGDCpc=",
+  "success": true,
+  "projectFilePath": "d:\\manage Storage\\Backend\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0\\microsoft.extensions.logging.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\nlog\\6.1.4\\nlog.6.1.4.nupkg.sha512",
+    "C:\\Users\\H-A\\.nuget\\packages\\nlog.extensions.logging\\6.1.4\\nlog.extensions.logging.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

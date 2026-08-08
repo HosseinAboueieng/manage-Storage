@@ -4,13 +4,11 @@ using NLog;
 
 namespace Service;
 
-
-
-public class DistributerService:IDistibuterSevice
+public class StorageService:IStorageService
 {
-     private readonly IRepositoryManager _repository;
+        private readonly IRepositoryManager _repository;
     private readonly ILogger _logger;
-    public DistributerService(IRepositoryManager repositoryManager,
+    public StorageService(IRepositoryManager repositoryManager,
     ILogger logger)
     {
         _repository=repositoryManager;

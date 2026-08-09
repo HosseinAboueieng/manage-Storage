@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\checkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\checkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\interfaces\\servicemanager\\icheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\servicemanager\\icheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\groupofprouductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\groupofprouductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\distributerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\distributerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216B580-02C5-2B61-8850-10ED52E7DAD9}|StorageManager\\StorageManager.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\storagemanager\\storagemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B216B580-02C5-2B61-8850-10ED52E7DAD9}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\storagemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\checkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\checkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\interfaces\\servicemanager\\idistibutersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\servicemanager\\idistibutersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\entity\\models\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\models\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\buyfactorreoisitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\buyfactorreoisitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\groupofproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\groupofproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\repositorycontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\repositorycontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\interfaces\\repositoryinterface\\ibuyfactorrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82175DB-FDAF-36DF-F55D-B0F96F20AF6D}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\repositoryinterface\\ibuyfactorrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\entity\\models\\buyfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\models\\buyfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\entity\\models\\distributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\models\\distributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\entity\\models\\groupofproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\models\\groupofproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\buyfactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\buyfactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\distributerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\distributerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F3387-4CAB-64ED-80E3-18319C5DCD81}|Repository\\Repository.csproj|solutionrelative:repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216B580-02C5-2B61-8850-10ED52E7DAD9}|StorageManager\\StorageManager.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\storagemanager\\extention\\serviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216B580-02C5-2B61-8850-10ED52E7DAD9}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\extention\\serviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216B580-02C5-2B61-8850-10ED52E7DAD9}|StorageManager\\StorageManager.csproj|d:\\projects\\hossein abouei\\manage-storage\\backend\\storagemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216B580-02C5-2B61-8850-10ED52E7DAD9}|StorageManager\\StorageManager.csproj|solutionrelative:storagemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\RepositoryInterFace\\ICheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\RepositoryInterFace\\ICheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\CheckRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CheckRepository.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\CheckRepository.cs",
+              "RelativeToolTip": "Repository\\CheckRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:54:17.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDistibuterSevice.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\ServiceManager\\IDistibuterSevice.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ServiceManager\\IDistibuterSevice.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\ServiceManager\\IDistibuterSevice.cs",
+              "RelativeToolTip": "Interfaces\\ServiceManager\\IDistibuterSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:59:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICheckService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\ServiceManager\\ICheckService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ServiceManager\\ICheckService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\ServiceManager\\ICheckService.cs",
+              "RelativeToolTip": "Interfaces\\ServiceManager\\ICheckService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T05:00:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\CheckService.cs",
+              "RelativeDocumentMoniker": "Service\\CheckService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\CheckService.cs",
+              "RelativeToolTip": "Service\\CheckService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T05:00:53.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistributerService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\DistributerService.cs",
+              "RelativeDocumentMoniker": "Service\\DistributerService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\DistributerService.cs",
+              "RelativeToolTip": "Service\\DistributerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:28:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-09T05:19:04.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StorageManager",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\StorageManager.csproj",
+              "RelativeDocumentMoniker": "StorageManager\\StorageManager.csproj",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\StorageManager.csproj",
+              "RelativeToolTip": "StorageManager\\StorageManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-09T05:19:05.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupOfProuductService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\GroupOfProuductService.cs",
+              "RelativeDocumentMoniker": "Service\\GroupOfProuductService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\GroupOfProuductService.cs",
+              "RelativeToolTip": "Service\\GroupOfProuductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:36:50.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Check.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\Check.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Check.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\Check.cs",
+              "RelativeToolTip": "Entity\\Models\\Check.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:38:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuyFactorReoisitory.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\BuyFactorReoisitory.cs",
+              "RelativeDocumentMoniker": "Repository\\BuyFactorReoisitory.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\BuyFactorReoisitory.cs",
+              "RelativeToolTip": "Repository\\BuyFactorReoisitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:07.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICheck.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\RepositoryInterFace\\ICheck.cs",
+              "RelativeDocumentMoniker": "Interfaces\\RepositoryInterFace\\ICheck.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\RepositoryInterFace\\ICheck.cs",
+              "RelativeToolTip": "Interfaces\\RepositoryInterFace\\ICheck.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:53:42.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupOfProductRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\GroupOfProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GroupOfProductRepository.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\GroupOfProductRepository.cs",
+              "RelativeToolTip": "Repository\\GroupOfProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductsRepository.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "Repository\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:03.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryContex.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\RepositoryContex.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryContex.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\RepositoryContex.cs",
+              "RelativeToolTip": "Repository\\RepositoryContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBuyFactorRrepository.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\RepositoryInterFace\\IBuyFactorRrepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\RepositoryInterFace\\IBuyFactorRrepository.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Interfaces\\RepositoryInterFace\\IBuyFactorRrepository.cs",
+              "RelativeToolTip": "Interfaces\\RepositoryInterFace\\IBuyFactorRrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:53:22.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuyFactor.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\BuyFactor.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\BuyFactor.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\BuyFactor.cs",
+              "RelativeToolTip": "Entity\\Models\\BuyFactor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:43:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Distributer.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\Distributer.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Distributer.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\Distributer.cs",
+              "RelativeToolTip": "Entity\\Models\\Distributer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:43:46.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroupOfProduct.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\GroupOfProduct.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\GroupOfProduct.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Models\\GroupOfProduct.cs",
+              "RelativeToolTip": "Entity\\Models\\GroupOfProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:40:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BuyFactorService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\BuyFactorService.cs",
+              "RelativeDocumentMoniker": "Service\\BuyFactorService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\BuyFactorService.cs",
+              "RelativeToolTip": "Service\\BuyFactorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:35:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\StorageService.cs",
+              "RelativeDocumentMoniker": "Service\\StorageService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\StorageService.cs",
+              "RelativeToolTip": "Service\\StorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:32:38.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:28:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DistributerRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\DistributerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DistributerRepository.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\DistributerRepository.cs",
+              "RelativeToolTip": "Repository\\DistributerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:01.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StorageRepository.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\StorageRepository.cs",
+              "RelativeToolTip": "Repository\\StorageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:06.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryManager.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\RepositoryManager.cs",
+              "RelativeToolTip": "Repository\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:29:06.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceExtention.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\Extention\\ServiceExtention.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Extention\\ServiceExtention.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\Extention\\ServiceExtention.cs",
+              "RelativeToolTip": "StorageManager\\Extention\\ServiceExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:27:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\Program.cs",
+              "RelativeDocumentMoniker": "StorageManager\\Program.cs",
+              "ToolTip": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\Program.cs",
+              "RelativeToolTip": "StorageManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:25:31.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

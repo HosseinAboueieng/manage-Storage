@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Azure.Core/1.47.1": {
@@ -3294,33 +3294,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\H-A\\.nuget\\packages\\": {}
+    "D:\\0_CACHES\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\manage Storage\\Backend\\StorageManager\\StorageManager.csproj",
+      "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\StorageManager.csproj",
       "projectName": "StorageManager",
-      "projectPath": "D:\\manage Storage\\Backend\\StorageManager\\StorageManager.csproj",
-      "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-      "outputPath": "D:\\manage Storage\\Backend\\StorageManager\\obj\\",
+      "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\StorageManager.csproj",
+      "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+      "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\manage Storage\\Backend\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\manage Storage\\Backend\\Repository\\Repository.csproj"
+            "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Repository\\Repository.csproj"
             }
           }
         }
@@ -3339,7 +3345,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {

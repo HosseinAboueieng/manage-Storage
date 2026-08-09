@@ -1,12 +1,16 @@
+using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
 
 namespace Entity.Models;
 
-[PrimaryKey(nameof(ProductId), nameof(DistributerId))]
+[Index(nameof(ProductId), nameof(DistributerId), IsUnique = true)]
 public class BuyFactor
 {
+    [Required]
+    [Column("FactorId")]
+    [Key]
+    public Guid Id { get; set; }
     public DateOnly BuyDate { get; set; }
 
     [Column(TypeName = "decimal(18, 2)")]
@@ -16,7 +20,7 @@ public class BuyFactor
 
     // Foreign Key & Navigation for Product
     public Guid ProductId { get; set; }
-    
+
     [ForeignKey(nameof(ProductId))]
     public Products? Product { get; set; }
 

@@ -1,5 +1,5 @@
 namespace Interfaces.ServiceManager;
 
-public class IBuyFactor
+public class IBuyFactorService
 {
 }

@@ -9,6 +9,9 @@ LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentD
 builder.Services.AddControllers();
 builder.Services.ConfigureCors(); 
 builder.Services.ConfigureLoggerService();
+builder.Services.ConfigureRepositoryMnager();
+builder.Services.ConfigureServiceManager();
+builder.Services.ConfigureSqlContext(builder.Configuration);
 var app = builder.Build();
 app.UseHttpsRedirection();
 

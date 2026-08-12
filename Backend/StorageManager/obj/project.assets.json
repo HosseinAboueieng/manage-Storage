@@ -1138,6 +1138,19 @@
         "runtime": {
           "bin/placeholder/Repository.dll": {}
         }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -3282,6 +3295,11 @@
       "type": "project",
       "path": "../Repository/Repository.csproj",
       "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3290,7 +3308,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 10.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.10",
-      "Repository >= 1.0.0"
+      "Repository >= 1.0.0",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3321,6 +3340,9 @@
           "projectReferences": {
             "D:\\manage Storage\\Backend\\Repository\\Repository.csproj": {
               "projectPath": "D:\\manage Storage\\Backend\\Repository\\Repository.csproj"
+            },
+            "D:\\manage Storage\\Backend\\Service\\Service.csproj": {
+              "projectPath": "D:\\manage Storage\\Backend\\Service\\Service.csproj"
             }
           }
         }

@@ -4,7 +4,7 @@ using Interfaces;
 
 namespace Service;
 
-public class ServiceManger : ISeviceManager
+public class ServiceManager : ISeviceManager
 {
     private readonly Lazy<IProductService> _productRepository;
     private readonly Lazy<IDistibuterSevice> _ditsributerRepository;
@@ -12,7 +12,7 @@ public class ServiceManger : ISeviceManager
     private readonly Lazy<IBuyFactorService> _buyFactorRepository;
     private readonly Lazy<IGroupOfProductSevice> _groupOfProductRepository;
 
-    public ServiceManger(IRepositoryManager repositoryManager,IloggerManager loggerManager)
+    public ServiceManager(IRepositoryManager repositoryManager,IloggerManager loggerManager)
     {
         _productRepository = new Lazy<IProductService>(() => new ProductService(repositoryManager, loggerManager));
         _ditsributerRepository = new Lazy<IDistibuterSevice>(() => new DistributerService(repositoryManager, loggerManager));

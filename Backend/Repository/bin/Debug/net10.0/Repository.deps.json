@@ -157,6 +157,14 @@
           }
         }
       },
+      "Dto/1.0.0": {
+        "runtime": {
+          "Dto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Entity/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "10.0.10"
@@ -170,6 +178,8 @@
       },
       "Interfaces/1.0.0": {
         "dependencies": {
+          "Dto": "1.0.0",
+          "Entity": "1.0.0",
           "NLog.Extensions.Logging": "6.1.4"
         },
         "runtime": {
@@ -277,6 +287,11 @@
       "sha512": "sha512-gDJjgF9LjG1Zsy3o/3BVUk5gFcCozYzrzKTZjcnE43FghchoQ9Xi4ra2dGEU+ftJf9oM0Kzs06y1r2SjfhDBGQ==",
       "path": "nlog.extensions.logging/6.1.4",
       "hashPath": "nlog.extensions.logging.6.1.4.nupkg.sha512"
+    },
+    "Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Entity/1.0.0": {
       "type": "project",

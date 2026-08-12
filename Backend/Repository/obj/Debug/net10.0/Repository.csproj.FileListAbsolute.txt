@@ -33,3 +33,6 @@ D:\Projects\hossein Abouei\manage-Storage\Backend\Repository\bin\Debug\net10.0\E
 D:\Projects\hossein Abouei\manage-Storage\Backend\Repository\bin\Debug\net10.0\Interfaces.pdb
 D:\Projects\hossein Abouei\manage-Storage\Backend\Repository\obj\Debug\net10.0\Repository.csproj.Up2Date
 D:\Projects\hossein Abouei\manage-Storage\Backend\Repository\obj\Debug\net10.0\ref\Repository.dll
+D:\manage Storage\Backend\Repository\bin\Debug\net10.0\Dto.dll
+D:\manage Storage\Backend\Repository\bin\Debug\net10.0\Dto.pdb
+D:\manage Storage\Backend\Repository\obj\Debug\net10.0\Repository.sourcelink.json

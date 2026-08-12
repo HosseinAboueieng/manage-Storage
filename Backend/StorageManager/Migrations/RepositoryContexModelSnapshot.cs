@@ -24,11 +24,10 @@ namespace StorageManager.Migrations
 
             modelBuilder.Entity("Entity.Models.BuyFactor", b =>
                 {
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<Guid>("DistributerId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier")
+                        .HasColumnName("FactorId");
 
                     b.Property<DateOnly>("BuyDate")
                         .HasColumnType("date");
@@ -36,14 +35,49 @@ namespace StorageManager.Migrations
                     b.Property<int>("Count")
                         .HasColumnType("int");
 
+                    b.Property<Guid>("DistributerId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<decimal>("TotalPrice")
                         .HasColumnType("decimal(18, 2)");
 
-                    b.HasKey("ProductId", "DistributerId");
+                    b.HasKey("Id");
 
                     b.HasIndex("DistributerId");
 
+                    b.HasIndex("ProductId", "DistributerId")
+                        .IsUnique();
+
                     b.ToTable("factors");
+                });
+
+            modelBuilder.Entity("Entity.Models.Check", b =>
+                {
+                    b.Property<string>("CheckSerie")
+                        .HasMaxLength(6)
+                        .HasColumnType("nvarchar(6)");
+
+                    b.Property<string>("BankName")
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
+
+                    b.Property<DateOnly>("DateOfCheck")
+                        .HasColumnType("date");
+
+                    b.Property<Guid>("FactorId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("payStatus")
+                        .HasColumnType("bit");
+
+                    b.HasKey("CheckSerie");
+
+                    b.HasIndex("FactorId");
+
+                    b.ToTable("checks");
                 });
 
             modelBuilder.Entity("Entity.Models.Distributer", b =>
@@ -160,6 +194,17 @@ namespace StorageManager.Migrations
                     b.Navigation("Distributer");
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("Entity.Models.Check", b =>
+                {
+                    b.HasOne("Entity.Models.BuyFactor", "buyFactor")
+                        .WithMany()
+                        .HasForeignKey("FactorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("buyFactor");
                 });
 
             modelBuilder.Entity("Entity.Models.Products", b =>

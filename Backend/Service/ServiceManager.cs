@@ -1,6 +1,7 @@
 using Interfaces.ServiceManager;
 using Interfaces.RepositoryInterFace;
 using Interfaces;
+using AutoMapper;
 
 namespace Service;
 
@@ -12,9 +13,9 @@ public class ServiceManager : ISeviceManager
     private readonly Lazy<IBuyFactorService> _buyFactorRepository;
     private readonly Lazy<IGroupOfProductSevice> _groupOfProductRepository;
 
-    public ServiceManager(IRepositoryManager repositoryManager,IloggerManager loggerManager)
+    public ServiceManager(IRepositoryManager repositoryManager,IloggerManager loggerManager,IMapper mapper)
     {
-        _productRepository = new Lazy<IProductService>(() => new ProductService(repositoryManager, loggerManager));
+        _productRepository = new Lazy<IProductService>(() => new ProductService(repositoryManager, loggerManager,mapper));
         _ditsributerRepository = new Lazy<IDistibuterSevice>(() => new DistributerService(repositoryManager, loggerManager));
         _storageRipository = new Lazy<IStorageService>(() => new StorageService(repositoryManager, loggerManager));
         _groupOfProductRepository = new Lazy<IGroupOfProductSevice>(() => new GroupOfProuductService(repositoryManager, loggerManager));

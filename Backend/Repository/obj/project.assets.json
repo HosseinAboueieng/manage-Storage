@@ -243,6 +243,16 @@
           }
         }
       },
+      "Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dto.dll": {}
+        }
+      },
       "Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -260,6 +270,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "Dto": "1.0.0",
+          "Entity": "1.0.0",
           "NLog.Extensions.Logging": "6.1.4"
         },
         "compile": {
@@ -690,6 +702,11 @@
         "nlog.extensions.logging.6.1.4.nupkg.sha512",
         "nlog.extensions.logging.nuspec"
       ]
+    },
+    "Dto/1.0.0": {
+      "type": "project",
+      "path": "../Dto/Dto.csproj",
+      "msbuildProject": "../Dto/Dto.csproj"
     },
     "Entity/1.0.0": {
       "type": "project",

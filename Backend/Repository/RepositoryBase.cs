@@ -12,21 +12,21 @@ public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
     {
         _repositoryContex=repositoryContex;
     }
-    public void create(T entity)=>_repositoryContex.Set<T>().Add(entity);
+    public void Create(T entity)=>_repositoryContex.Set<T>().Add(entity);
 
-    public void delete(T entity)=>_repositoryContex.Set<T>().Remove(entity);
+    public void Delete(T entity)=>_repositoryContex.Set<T>().Remove(entity);
 
-    public IQueryable<T> findAll(bool trackChanges)=>!trackChanges ? 
+    public IQueryable<T> FindAll(bool trackChanges)=>!trackChanges ? 
     _repositoryContex.Set<T>() 
     .AsNoTracking() : 
     _repositoryContex.Set<T>(); 
 
-    public IQueryable<T> findByCondition(Expression<Func<T, bool>> expression, bool TrackChange)
+    public IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression, bool TrackChange)
     =>!TrackChange?
     _repositoryContex.Set<T>().Where(expression)
     .AsNoTracking():
     _repositoryContex.Set<T>().Where(expression);
 
-    public void update(T entity)=>_repositoryContex.Set<T>().Update(entity);
+    public void Update(T entity)=>_repositoryContex.Set<T>().Update(entity);
 
 }

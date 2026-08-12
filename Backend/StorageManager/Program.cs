@@ -12,6 +12,7 @@ builder.Services.ConfigureLoggerService();
 builder.Services.ConfigureRepositoryMnager();
 builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureSqlContext(builder.Configuration);
+builder.Services.AddAutoMapper(typeof(Program)); 
 var app = builder.Build();
 app.UseHttpsRedirection();
 

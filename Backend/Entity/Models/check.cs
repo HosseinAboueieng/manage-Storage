@@ -7,7 +7,8 @@ public class Check
 {
     [Required]
     [StringLength(6)]
-    public String checkSerie { get; set; }
+    [Key]
+    public String CheckSerie { get; set; }
 
     [Required]
     public bool payStatus { get; set; } = false;

@@ -11,6 +11,7 @@ public class RepositoryContex:DbContext
         
     }
     public DbSet<Products> products { get; set; }
+    public DbSet<Check> checks { get; set; }
     public DbSet<Distributer> distributers { get; set; }
     public DbSet<GroupOfProduct> groupOfProducts { get; set; }
     public DbSet<Storage> storages  { get; set; }

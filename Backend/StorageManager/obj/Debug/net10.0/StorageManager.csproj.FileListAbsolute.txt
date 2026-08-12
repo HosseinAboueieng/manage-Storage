@@ -333,3 +333,10 @@ D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\obj\Debug\net10
 D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\obj\Debug\net10.0\StorageM.7596A1B2.Up2Date
 D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\obj\Debug\net10.0\StorageManager.genruntimeconfig.cache
 D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\obj\Debug\net10.0\ref\StorageManager.dll
+D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\Dto.dll
+D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\Service.dll
+D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\Service.pdb
+D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\Dto.pdb
+D:\manage Storage\Backend\StorageManager\obj\Debug\net10.0\StorageManager.sourcelink.json
+D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\AutoMapper.dll
+D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

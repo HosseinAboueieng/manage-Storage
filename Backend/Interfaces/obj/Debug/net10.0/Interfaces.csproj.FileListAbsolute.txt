@@ -23,3 +23,9 @@ D:\Projects\hossein Abouei\manage-Storage\Backend\Interfaces\obj\Debug\net10.0\I
 D:\Projects\hossein Abouei\manage-Storage\Backend\Interfaces\obj\Debug\net10.0\refint\Interfaces.dll
 D:\Projects\hossein Abouei\manage-Storage\Backend\Interfaces\obj\Debug\net10.0\Interfaces.pdb
 D:\Projects\hossein Abouei\manage-Storage\Backend\Interfaces\obj\Debug\net10.0\ref\Interfaces.dll
+D:\manage Storage\Backend\Interfaces\bin\Debug\net10.0\Dto.dll
+D:\manage Storage\Backend\Interfaces\bin\Debug\net10.0\Dto.pdb
+D:\manage Storage\Backend\Interfaces\obj\Debug\net10.0\Interfaces.sourcelink.json
+D:\manage Storage\Backend\Interfaces\obj\Debug\net10.0\Interfaces.csproj.Up2Date
+D:\manage Storage\Backend\Interfaces\bin\Debug\net10.0\Entity.dll
+D:\manage Storage\Backend\Interfaces\bin\Debug\net10.0\Entity.pdb

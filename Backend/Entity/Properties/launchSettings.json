@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\StorageManager.slnx"
+    }
+  }
+}

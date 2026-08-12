@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StorageManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+793cf0114aebd551a1314e953e5fe18c250cc73c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StorageManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StorageManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

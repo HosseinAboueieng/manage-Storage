@@ -6,5 +6,5 @@ public interface ISeviceManager
     IDistibuterSevice distibuterSevice{get;}
     IStorageService storageService{get;}
     IGroupOfProductSevice groupOfProductSevice{get;}
-    IBuyFactor buyFactor{get;}
+    IBuyFactorService buyFactor{get;}
 }

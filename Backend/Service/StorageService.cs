@@ -1,17 +1,18 @@
+﻿using Interfaces.RepositoryInterFace;
 using Interfaces.ServiceManager;
-using Interfaces.RepositoryInterFace;
-using NLog;
+using Microsoft.Extensions.Logging;
 
-namespace Service;
-
-public class StorageService:IStorageService
+namespace Service
 {
-        private readonly IRepositoryManager _repository;
-    private readonly ILogger _logger;
-    public StorageService(IRepositoryManager repositoryManager,
-    ILogger logger)
+    internal class StorageService : IStorageService
     {
-        _repository=repositoryManager;
-        _logger=logger;
+        private readonly IRepositoryManager _repository;
+        private readonly ILogger _logger;
+        public StorageService(IRepositoryManager repositoryManager,
+        ILogger logger)
+        {
+            _repository = repositoryManager;
+            _logger = logger;
+        }
     }
 }

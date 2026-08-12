@@ -1,0 +1,16 @@
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\bin\Debug\net10.0\Service.deps.json
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\bin\Debug\net10.0\Service.dll
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\bin\Debug\net10.0\Service.pdb
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\bin\Debug\net10.0\Interfaces.dll
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\bin\Debug\net10.0\Interfaces.pdb
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.csproj.AssemblyReference.cache
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.AssemblyInfoInputs.cache
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.AssemblyInfo.cs
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.csproj.CoreCompileInputs.cache
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.sourcelink.json
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.csproj.Up2Date
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.dll
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\refint\Service.dll
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\Service.pdb
+D:\Projects\hossein Abouei\manage-Storage\Backend\Service\obj\Debug\net10.0\ref\Service.dll

@@ -1,35 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Entity.csproj": {}
+    "D:\\manage Storage\\Backend\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Entity.csproj": {
+    "D:\\manage Storage\\Backend\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Entity.csproj",
+        "projectUniqueName": "D:\\manage Storage\\Backend\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\Entity.csproj",
-        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
-        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Entity\\obj\\",
+        "projectPath": "D:\\manage Storage\\Backend\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
+        "outputPath": "D:\\manage Storage\\Backend\\Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -48,6 +43,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {

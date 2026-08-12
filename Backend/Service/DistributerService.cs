@@ -1,15 +1,16 @@
 namespace Service;
 
+using Interfaces;
 using Interfaces.RepositoryInterFace;
 using Interfaces.ServiceManager;
-using Microsoft.Extensions.Logging;
+
 
 public class DistributerService : IDistibuterSevice
 {
     private readonly IRepositoryManager _repository;
-    private readonly ILogger _logger;
+    private readonly IloggerManager _logger;
     public DistributerService(IRepositoryManager repositoryManager,
-    ILogger logger)
+    IloggerManager logger)
     {
         _repository = repositoryManager;
         _logger = logger;

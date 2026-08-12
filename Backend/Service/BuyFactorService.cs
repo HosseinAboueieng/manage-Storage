@@ -1,15 +1,16 @@
-﻿using Interfaces.RepositoryInterFace;
+﻿using Interfaces;
+using Interfaces.RepositoryInterFace;
 using Interfaces.ServiceManager;
-using Microsoft.Extensions.Logging;
+
 
 namespace Service
 {
     internal class BuyFactorService : IBuyFactorService
     {
         private readonly IRepositoryManager _repository;
-        private readonly ILogger _logger;
+        private readonly IloggerManager _logger;
         public BuyFactorService(IRepositoryManager repositoryManager,
-        ILogger logger)
+        IloggerManager logger)
         {
             _repository = repositoryManager;
             _logger = logger;

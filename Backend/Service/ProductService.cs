@@ -1,5 +1,6 @@
 using AutoMapper;
 using Dto;
+using Entity.EntityPrometre;
 using Interfaces;
 using Interfaces.RepositoryInterFace;
 using Interfaces.ServiceManager;
@@ -54,6 +55,25 @@ public class ProductService:IProductService
                     product.groupOfProduct.groupName) ; 
         }
     }
-    
+
+    public ProductDto findProductByName(ProductParametre productParametre, bool trackChanges)
+    {
+        var poduct=_repository.Product.productByName(productParametre,trackChanges);
+        if(poduct==null)
+        {
+            _logger.LogInfo($"Product with name:{productParametre.search} not found");
+            return null;
+        }
+        else
+        {
+            _logger.LogInfo($"Product with name:{productParametre.search} found");
+        }
+        return new ProductDto(
+            poduct.id,
+            poduct.ProductsName,
+            poduct.companyName,
+            poduct.groupOfProduct.groupName
+            );
+    }
 
 }

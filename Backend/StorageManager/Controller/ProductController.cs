@@ -1,3 +1,4 @@
+using Entity.EntityPrometre;
 using Interfaces.ServiceManager;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,6 +23,17 @@ public class ProductController:ControllerBase
     public IActionResult GetProduct(Guid id)
     {
         var product = _service.productService.findProductById(id, false);
+        if (product == null)
+        {
+            return NotFound();
+        }
+        return Ok(product);
+    }
+    [Route("findbyname")]
+    [HttpGet()]
+    public IActionResult GetProductbyName([FromQuery] ProductParametre productparametrs)
+    {
+        var product = _service.productService.findProductByName(productparametrs, false);
         if (product == null)
         {
             return NotFound();

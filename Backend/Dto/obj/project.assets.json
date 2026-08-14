@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\manage Storage\\Backend\\Dto\\Dto.csproj",
+      "projectUniqueName": "D:\\manage Storage\\Backend\\Dto\\Dto.csproj",
       "projectName": "Dto",
-      "projectPath": "d:\\manage Storage\\Backend\\Dto\\Dto.csproj",
+      "projectPath": "D:\\manage Storage\\Backend\\Dto\\Dto.csproj",
       "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-      "outputPath": "d:\\manage Storage\\Backend\\Dto\\obj\\",
+      "outputPath": "D:\\manage Storage\\Backend\\Dto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

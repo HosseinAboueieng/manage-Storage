@@ -17,6 +17,7 @@ public class BuyFactor
     public decimal TotalPrice { get; set; }
 
     public int Count { get; set; }
+    public int state{get; set;}
 
     // Foreign Key & Navigation for Product
     public Guid ProductId { get; set; }

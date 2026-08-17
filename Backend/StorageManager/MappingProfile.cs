@@ -13,5 +13,11 @@ public class MappingProfile:Profile
         dest => dest.groupName,
         opt => opt.MapFrom(src => src.groupOfProduct.groupName)
          );
+
+         CreateMap<GroupOfProductCreatDto,GroupOfProduct>();
+         CreateMap<GroupOfProduct,GroupOfProductDto>().ReverseMap();
+         CreateMap<GroupOfProduct,GroupOfProductDto>().ReverseMap();
+         CreateMap<ProductAddDto,Products>();
+         CreateMap<ProductAddDto,ProductDto>().ReverseMap();
     }
 }

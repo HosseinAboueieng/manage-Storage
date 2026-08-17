@@ -36,3 +36,5 @@ D:\Projects\hossein Abouei\manage-Storage\Backend\Repository\obj\Debug\net10.0\r
 D:\manage Storage\Backend\Repository\bin\Debug\net10.0\Dto.dll
 D:\manage Storage\Backend\Repository\bin\Debug\net10.0\Dto.pdb
 D:\manage Storage\Backend\Repository\obj\Debug\net10.0\Repository.sourcelink.json
+D:\Projects\hossein Abouei\manage-Storage\backend\Repository\bin\Debug\net10.0\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Repository\bin\Debug\net10.0\Dto.pdb

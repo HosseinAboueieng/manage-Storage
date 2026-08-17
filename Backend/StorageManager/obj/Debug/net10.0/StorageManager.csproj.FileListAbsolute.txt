@@ -340,3 +340,9 @@ D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\Dto.pdb
 D:\manage Storage\Backend\StorageManager\obj\Debug\net10.0\StorageManager.sourcelink.json
 D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\AutoMapper.dll
 D:\manage Storage\Backend\StorageManager\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\bin\Debug\net10.0\AutoMapper.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\bin\Debug\net10.0\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\bin\Debug\net10.0\Service.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\bin\Debug\net10.0\Service.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\bin\Debug\net10.0\Dto.pdb

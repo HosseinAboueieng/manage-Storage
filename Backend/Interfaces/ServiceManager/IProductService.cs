@@ -8,4 +8,5 @@ public interface IProductService
     ProductDto findProductById(Guid id, bool trackChanges);
     IEnumerable<ProductDto> FindAllProductByName(bool trackChanges);
     ProductDto findProductByName(ProductParametre productParametre, bool trackChanges);
+    Task<ProductDto> cerateProduct(ProductAddDto productAddDto );
 }

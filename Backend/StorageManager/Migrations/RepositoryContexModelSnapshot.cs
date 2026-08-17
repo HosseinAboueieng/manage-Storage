@@ -44,6 +44,9 @@ namespace StorageManager.Migrations
                     b.Property<decimal>("TotalPrice")
                         .HasColumnType("decimal(18, 2)");
 
+                    b.Property<int>("state")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("DistributerId");
@@ -221,7 +224,7 @@ namespace StorageManager.Migrations
             modelBuilder.Entity("Entity.Models.Storage", b =>
                 {
                     b.HasOne("Entity.Models.Products", "Product")
-                        .WithMany("Storages")
+                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -232,11 +235,6 @@ namespace StorageManager.Migrations
             modelBuilder.Entity("Entity.Models.GroupOfProduct", b =>
                 {
                     b.Navigation("products");
-                });
-
-            modelBuilder.Entity("Entity.Models.Products", b =>
-                {
-                    b.Navigation("Storages");
                 });
 #pragma warning restore 612, 618
         }

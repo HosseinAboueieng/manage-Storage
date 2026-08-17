@@ -1593,3 +1593,486 @@
 2026-08-14 21:10:28.2377 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
 2026-08-14 21:10:28.2377 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\manage Storage\Backend\StorageManager\nlog.config
 2026-08-14 21:10:32.9625 Debug Targets not configured for Logger: Interfaces.loggerManager
+2026-08-17 11:44:10.3335 Debug Message Template Auto Format enabled
+2026-08-17 11:44:10.3395 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 11:44:10.3395 Trace ParseRulesElement
+2026-08-17 11:44:10.3395 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 11:44:10.3395 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 11:44:10.3395 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 11:44:10.3395 Debug AutoReload Config File Monitor starting
+2026-08-17 11:44:10.3395 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 11:44:10.3395 Debug --- NLog configuration dump ---
+2026-08-17 11:44:10.3395 Debug Targets:
+2026-08-17 11:44:10.3395 Debug Rules:
+2026-08-17 11:44:10.3546 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 11:44:10.3546 Debug --- End of NLog configuration dump ---
+2026-08-17 11:44:10.3546 Trace FindReachableObject<System.Object>:
+2026-08-17 11:44:10.3546 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 11:44:10.3546 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 11:44:10.3546 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 11:44:10.3546 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 11:44:10.3546 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 11:45:08.0115 Debug Message Template Auto Format enabled
+2026-08-17 11:45:08.0115 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 11:45:08.0115 Trace ParseRulesElement
+2026-08-17 11:45:08.0267 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 11:45:08.0267 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 11:45:08.0267 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 11:45:08.0267 Debug AutoReload Config File Monitor starting
+2026-08-17 11:45:08.0267 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 11:45:08.0267 Debug --- NLog configuration dump ---
+2026-08-17 11:45:08.0267 Debug Targets:
+2026-08-17 11:45:08.0267 Debug Rules:
+2026-08-17 11:45:08.0267 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 11:45:08.0267 Debug --- End of NLog configuration dump ---
+2026-08-17 11:45:08.0425 Trace FindReachableObject<System.Object>:
+2026-08-17 11:45:08.0425 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 11:45:08.0425 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 11:45:08.0425 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 11:45:08.0425 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 11:45:08.0425 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 11:52:37.2536 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 11:52:37.2536 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 11:52:37.2536 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 11:52:37.2536 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 11:52:37.2536 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 11:52:37.2536 Debug Closing logging configuration...
+2026-08-17 11:52:37.2536 Debug Finished closing logging configuration.
+2026-08-17 11:52:37.2536 Info LogFactory has been disposed.
+2026-08-17 11:53:08.3414 Debug Message Template Auto Format enabled
+2026-08-17 11:53:08.3497 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 11:53:08.3497 Trace ParseRulesElement
+2026-08-17 11:53:08.3497 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 11:53:08.3497 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 11:53:08.3497 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 11:53:08.3497 Debug AutoReload Config File Monitor starting
+2026-08-17 11:53:08.3599 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 11:53:08.3599 Debug --- NLog configuration dump ---
+2026-08-17 11:53:08.3599 Debug Targets:
+2026-08-17 11:53:08.3599 Debug Rules:
+2026-08-17 11:53:08.3599 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 11:53:08.3599 Debug --- End of NLog configuration dump ---
+2026-08-17 11:53:08.3599 Trace FindReachableObject<System.Object>:
+2026-08-17 11:53:08.3599 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 11:53:08.3599 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 11:53:08.3599 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 11:53:08.3599 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 11:53:08.3599 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 11:53:49.5227 Debug Message Template Auto Format enabled
+2026-08-17 11:53:49.5227 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 11:53:49.5322 Trace ParseRulesElement
+2026-08-17 11:53:49.5322 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 11:53:49.5322 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 11:53:49.5322 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 11:53:49.5322 Debug AutoReload Config File Monitor starting
+2026-08-17 11:53:49.5322 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 11:53:49.5322 Debug --- NLog configuration dump ---
+2026-08-17 11:53:49.5322 Debug Targets:
+2026-08-17 11:53:49.5322 Debug Rules:
+2026-08-17 11:53:49.5322 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 11:53:49.5322 Debug --- End of NLog configuration dump ---
+2026-08-17 11:53:49.5322 Trace FindReachableObject<System.Object>:
+2026-08-17 11:53:49.5495 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 11:53:49.5495 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 11:53:49.5495 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 11:53:49.5495 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 11:53:49.5495 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 11:54:35.9026 Debug Message Template Auto Format enabled
+2026-08-17 11:54:35.9078 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 11:54:35.9078 Trace ParseRulesElement
+2026-08-17 11:54:35.9078 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 11:54:35.9078 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 11:54:35.9078 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 11:54:35.9078 Debug AutoReload Config File Monitor starting
+2026-08-17 11:54:35.9212 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 11:54:35.9212 Debug --- NLog configuration dump ---
+2026-08-17 11:54:35.9212 Debug Targets:
+2026-08-17 11:54:35.9212 Debug Rules:
+2026-08-17 11:54:35.9212 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 11:54:35.9212 Debug --- End of NLog configuration dump ---
+2026-08-17 11:54:35.9212 Trace FindReachableObject<System.Object>:
+2026-08-17 11:54:35.9212 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 11:54:35.9212 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 11:54:35.9212 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 11:54:35.9212 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 11:54:35.9212 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 12:56:29.6401 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 12:56:29.6411 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 12:56:29.6411 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 12:56:29.6411 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 12:56:29.6411 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 12:56:29.6411 Debug Closing logging configuration...
+2026-08-17 12:56:29.6411 Debug Finished closing logging configuration.
+2026-08-17 12:56:29.6411 Info LogFactory has been disposed.
+2026-08-17 12:56:42.6858 Debug Message Template Auto Format enabled
+2026-08-17 12:56:42.6909 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 12:56:42.6909 Trace ParseRulesElement
+2026-08-17 12:56:42.6909 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 12:56:42.6909 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 12:56:42.7029 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 12:56:42.7029 Debug AutoReload Config File Monitor starting
+2026-08-17 12:56:42.7029 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 12:56:42.7029 Debug --- NLog configuration dump ---
+2026-08-17 12:56:42.7029 Debug Targets:
+2026-08-17 12:56:42.7029 Debug Rules:
+2026-08-17 12:56:42.7029 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 12:56:42.7029 Debug --- End of NLog configuration dump ---
+2026-08-17 12:56:42.7029 Trace FindReachableObject<System.Object>:
+2026-08-17 12:56:42.7029 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 12:56:42.7029 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 12:56:42.7029 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 12:56:42.7029 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 12:56:42.7192 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 12:57:36.5257 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 12:57:36.5257 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 12:57:36.5257 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 12:57:36.5257 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 12:57:36.5257 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 12:57:36.5257 Debug Closing logging configuration...
+2026-08-17 12:57:36.5257 Debug Finished closing logging configuration.
+2026-08-17 12:57:36.5257 Info LogFactory has been disposed.
+2026-08-17 12:57:39.0906 Debug Message Template Auto Format enabled
+2026-08-17 12:57:39.1001 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 12:57:39.1001 Trace ParseRulesElement
+2026-08-17 12:57:39.1001 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 12:57:39.1090 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 12:57:39.1090 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 12:57:39.1090 Debug AutoReload Config File Monitor starting
+2026-08-17 12:57:39.1090 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 12:57:39.1090 Debug --- NLog configuration dump ---
+2026-08-17 12:57:39.1090 Debug Targets:
+2026-08-17 12:57:39.1090 Debug Rules:
+2026-08-17 12:57:39.1090 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 12:57:39.1090 Debug --- End of NLog configuration dump ---
+2026-08-17 12:57:39.1090 Trace FindReachableObject<System.Object>:
+2026-08-17 12:57:39.1251 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 12:57:39.1251 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 12:57:39.1251 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 12:57:39.1251 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 12:57:39.1251 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 13:59:10.3085 Debug Message Template Auto Format enabled
+2026-08-17 13:59:10.3153 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 13:59:10.3153 Trace ParseRulesElement
+2026-08-17 13:59:10.3251 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 13:59:10.3251 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 13:59:10.3251 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 13:59:10.3251 Debug AutoReload Config File Monitor starting
+2026-08-17 13:59:10.3251 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 13:59:10.3251 Debug --- NLog configuration dump ---
+2026-08-17 13:59:10.3251 Debug Targets:
+2026-08-17 13:59:10.3251 Debug Rules:
+2026-08-17 13:59:10.3251 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 13:59:10.3251 Debug --- End of NLog configuration dump ---
+2026-08-17 13:59:10.3410 Trace FindReachableObject<System.Object>:
+2026-08-17 13:59:10.3410 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 13:59:10.3410 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 13:59:10.3410 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 13:59:10.3410 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 13:59:10.3410 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 14:00:20.6600 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 14:00:20.6600 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 14:00:20.6600 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 14:00:20.6600 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 14:00:20.6600 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:00:20.6600 Debug Closing logging configuration...
+2026-08-17 14:00:20.6600 Debug Finished closing logging configuration.
+2026-08-17 14:00:20.6600 Info LogFactory has been disposed.
+2026-08-17 14:02:04.1037 Debug Message Template Auto Format enabled
+2026-08-17 14:02:04.1095 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:02:04.1095 Trace ParseRulesElement
+2026-08-17 14:02:04.1095 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:02:04.1095 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:02:04.1095 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:02:04.1095 Debug AutoReload Config File Monitor starting
+2026-08-17 14:02:04.1095 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:02:04.1095 Debug --- NLog configuration dump ---
+2026-08-17 14:02:04.1095 Debug Targets:
+2026-08-17 14:02:04.1205 Debug Rules:
+2026-08-17 14:02:04.1205 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:02:04.1205 Debug --- End of NLog configuration dump ---
+2026-08-17 14:02:04.1205 Trace FindReachableObject<System.Object>:
+2026-08-17 14:02:04.1205 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:02:04.1205 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:02:04.1205 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:02:04.1205 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:02:04.1205 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 14:02:18.9054 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 14:02:18.9054 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 14:02:18.9054 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 14:02:18.9054 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 14:02:18.9054 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:02:18.9054 Debug Closing logging configuration...
+2026-08-17 14:02:18.9054 Debug Finished closing logging configuration.
+2026-08-17 14:02:18.9054 Info LogFactory has been disposed.
+2026-08-17 14:02:24.2562 Debug Message Template Auto Format enabled
+2026-08-17 14:02:24.2635 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:02:24.2635 Trace ParseRulesElement
+2026-08-17 14:02:24.2635 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:02:24.2635 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:02:24.2635 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:02:24.2635 Debug AutoReload Config File Monitor starting
+2026-08-17 14:02:24.2635 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:02:24.2635 Debug --- NLog configuration dump ---
+2026-08-17 14:02:24.2635 Debug Targets:
+2026-08-17 14:02:24.2759 Debug Rules:
+2026-08-17 14:02:24.2759 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:02:24.2759 Debug --- End of NLog configuration dump ---
+2026-08-17 14:02:24.2759 Trace FindReachableObject<System.Object>:
+2026-08-17 14:02:24.2759 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:02:24.2759 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:02:24.2759 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:02:24.2759 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:02:24.2759 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:03:18.9189 Debug Message Template Auto Format enabled
+2026-08-17 14:03:18.9189 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:03:18.9189 Trace ParseRulesElement
+2026-08-17 14:03:18.9327 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:03:18.9327 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:03:18.9327 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:03:18.9327 Debug AutoReload Config File Monitor starting
+2026-08-17 14:03:18.9327 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:03:18.9327 Debug --- NLog configuration dump ---
+2026-08-17 14:03:18.9327 Debug Targets:
+2026-08-17 14:03:18.9327 Debug Rules:
+2026-08-17 14:03:18.9327 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:03:18.9327 Debug --- End of NLog configuration dump ---
+2026-08-17 14:03:18.9327 Trace FindReachableObject<System.Object>:
+2026-08-17 14:03:18.9327 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:03:18.9327 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:03:18.9477 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:03:18.9477 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:03:18.9477 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:03:36.2286 Debug Message Template Auto Format enabled
+2026-08-17 14:03:36.2459 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:03:36.2459 Trace ParseRulesElement
+2026-08-17 14:03:36.2659 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:03:36.2659 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:03:36.2659 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:03:36.2659 Debug AutoReload Config File Monitor starting
+2026-08-17 14:03:36.2794 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:03:36.2794 Debug --- NLog configuration dump ---
+2026-08-17 14:03:36.2794 Debug Targets:
+2026-08-17 14:03:36.2794 Debug Rules:
+2026-08-17 14:03:36.2794 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:03:36.2794 Debug --- End of NLog configuration dump ---
+2026-08-17 14:03:36.2985 Trace FindReachableObject<System.Object>:
+2026-08-17 14:03:36.2985 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:03:36.2985 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:03:36.2985 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:03:36.2985 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:03:36.2985 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:04:20.0784 Debug Message Template Auto Format enabled
+2026-08-17 14:04:20.0784 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:04:20.0889 Trace ParseRulesElement
+2026-08-17 14:04:20.0889 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:04:20.0889 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:04:20.0889 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:04:20.0889 Debug AutoReload Config File Monitor starting
+2026-08-17 14:04:20.0889 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:04:20.0889 Debug --- NLog configuration dump ---
+2026-08-17 14:04:20.0889 Debug Targets:
+2026-08-17 14:04:20.0889 Debug Rules:
+2026-08-17 14:04:20.0889 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:04:20.0889 Debug --- End of NLog configuration dump ---
+2026-08-17 14:04:20.1039 Trace FindReachableObject<System.Object>:
+2026-08-17 14:04:20.1039 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:04:20.1039 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:04:20.1039 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:04:20.1039 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:04:20.1039 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:07:31.8707 Debug Message Template Auto Format enabled
+2026-08-17 14:07:31.8707 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:07:31.8707 Trace ParseRulesElement
+2026-08-17 14:07:31.8875 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:07:31.8875 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:07:31.8875 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:07:31.8875 Debug AutoReload Config File Monitor starting
+2026-08-17 14:07:31.8875 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:07:31.8875 Debug --- NLog configuration dump ---
+2026-08-17 14:07:31.8875 Debug Targets:
+2026-08-17 14:07:31.8875 Debug Rules:
+2026-08-17 14:07:31.8991 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:07:31.8991 Debug --- End of NLog configuration dump ---
+2026-08-17 14:07:31.8991 Trace FindReachableObject<System.Object>:
+2026-08-17 14:07:31.8991 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:07:31.9142 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:07:31.9142 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:07:31.9142 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:07:31.9142 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 14:09:58.7511 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 14:09:58.7511 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 14:09:58.7511 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 14:09:58.7511 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 14:09:58.7511 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:09:58.7511 Debug Closing logging configuration...
+2026-08-17 14:09:58.7511 Debug Finished closing logging configuration.
+2026-08-17 14:09:58.7511 Info LogFactory has been disposed.
+2026-08-17 14:10:05.0163 Debug Message Template Auto Format enabled
+2026-08-17 14:10:05.0254 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:10:05.0254 Trace ParseRulesElement
+2026-08-17 14:10:05.0254 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:10:05.0254 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:10:05.0254 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:10:05.0254 Debug AutoReload Config File Monitor starting
+2026-08-17 14:10:05.0371 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:10:05.0371 Debug --- NLog configuration dump ---
+2026-08-17 14:10:05.0371 Debug Targets:
+2026-08-17 14:10:05.0371 Debug Rules:
+2026-08-17 14:10:05.0371 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:10:05.0371 Debug --- End of NLog configuration dump ---
+2026-08-17 14:10:05.0371 Trace FindReachableObject<System.Object>:
+2026-08-17 14:10:05.0371 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:10:05.0371 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:10:05.0371 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:10:05.0371 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:10:05.0371 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:10:23.6926 Debug Message Template Auto Format enabled
+2026-08-17 14:10:23.6999 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:10:23.6999 Trace ParseRulesElement
+2026-08-17 14:10:23.6999 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:10:23.6999 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:10:23.6999 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:10:23.6999 Debug AutoReload Config File Monitor starting
+2026-08-17 14:10:23.7095 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:10:23.7095 Debug --- NLog configuration dump ---
+2026-08-17 14:10:23.7095 Debug Targets:
+2026-08-17 14:10:23.7095 Debug Rules:
+2026-08-17 14:10:23.7095 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:10:23.7095 Debug --- End of NLog configuration dump ---
+2026-08-17 14:10:23.7095 Trace FindReachableObject<System.Object>:
+2026-08-17 14:10:23.7095 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:10:23.7095 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:10:23.7095 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:10:23.7095 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:10:23.7095 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:10:38.6497 Debug Message Template Auto Format enabled
+2026-08-17 14:10:38.6497 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:10:38.6497 Trace ParseRulesElement
+2026-08-17 14:10:38.6497 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:10:38.6639 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:10:38.6639 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:10:38.6639 Debug AutoReload Config File Monitor starting
+2026-08-17 14:10:38.6639 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:10:38.6639 Debug --- NLog configuration dump ---
+2026-08-17 14:10:38.6639 Debug Targets:
+2026-08-17 14:10:38.6639 Debug Rules:
+2026-08-17 14:10:38.6639 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:10:38.6639 Debug --- End of NLog configuration dump ---
+2026-08-17 14:10:38.6639 Trace FindReachableObject<System.Object>:
+2026-08-17 14:10:38.6785 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:10:38.6785 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:10:38.6785 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:10:38.6785 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:10:38.6785 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:10:52.2351 Debug Message Template Auto Format enabled
+2026-08-17 14:10:52.2441 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:10:52.2441 Trace ParseRulesElement
+2026-08-17 14:10:52.2441 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:10:52.2441 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:10:52.2441 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:10:52.2441 Debug AutoReload Config File Monitor starting
+2026-08-17 14:10:52.2561 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:10:52.2561 Debug --- NLog configuration dump ---
+2026-08-17 14:10:52.2561 Debug Targets:
+2026-08-17 14:10:52.2561 Debug Rules:
+2026-08-17 14:10:52.2561 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:10:52.2561 Debug --- End of NLog configuration dump ---
+2026-08-17 14:10:52.2561 Trace FindReachableObject<System.Object>:
+2026-08-17 14:10:52.2561 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:10:52.2561 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:10:52.2561 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:10:52.2561 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:10:52.2561 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:13:11.6819 Debug Message Template Auto Format enabled
+2026-08-17 14:13:11.6819 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:13:11.6930 Trace ParseRulesElement
+2026-08-17 14:13:11.6930 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:13:11.6930 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:13:11.6930 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:13:11.6930 Debug AutoReload Config File Monitor starting
+2026-08-17 14:13:11.6930 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:13:11.6930 Debug --- NLog configuration dump ---
+2026-08-17 14:13:11.6930 Debug Targets:
+2026-08-17 14:13:11.6930 Debug Rules:
+2026-08-17 14:13:11.6930 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:13:11.6930 Debug --- End of NLog configuration dump ---
+2026-08-17 14:13:11.7178 Trace FindReachableObject<System.Object>:
+2026-08-17 14:13:11.7249 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:13:11.7249 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:13:11.7249 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:13:11.7249 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:13:11.7249 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:13:46.0806 Debug Message Template Auto Format enabled
+2026-08-17 14:13:46.0881 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:13:46.0881 Trace ParseRulesElement
+2026-08-17 14:13:46.0881 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:13:46.0881 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:13:46.0881 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:13:46.0881 Debug AutoReload Config File Monitor starting
+2026-08-17 14:13:46.0979 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager
+2026-08-17 14:13:46.0979 Debug --- NLog configuration dump ---
+2026-08-17 14:13:46.0979 Debug Targets:
+2026-08-17 14:13:46.0979 Debug Rules:
+2026-08-17 14:13:46.0979 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:13:46.0979 Debug --- End of NLog configuration dump ---
+2026-08-17 14:13:46.0979 Trace FindReachableObject<System.Object>:
+2026-08-17 14:13:46.0979 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:13:46.0979 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:13:46.0979 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:13:46.0979 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:13:46.0979 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\Backend\StorageManager\nlog.config
+2026-08-17 14:18:51.8656 Debug Message Template Auto Format enabled
+2026-08-17 14:18:51.8656 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:18:51.8656 Trace ParseRulesElement
+2026-08-17 14:18:51.8656 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:18:51.8775 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:18:51.8775 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:18:51.8775 Debug AutoReload Config File Monitor starting
+2026-08-17 14:18:51.8775 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:18:51.8775 Debug --- NLog configuration dump ---
+2026-08-17 14:18:51.8775 Debug Targets:
+2026-08-17 14:18:51.8775 Debug Rules:
+2026-08-17 14:18:51.8775 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:18:51.8775 Debug --- End of NLog configuration dump ---
+2026-08-17 14:18:51.8775 Trace FindReachableObject<System.Object>:
+2026-08-17 14:18:51.8775 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:18:51.8925 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:18:51.8925 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:18:51.8925 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:18:51.8925 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 14:19:07.3222 Debug Targets not configured for Logger: Interfaces.loggerManager
+2026-08-17 14:21:18.9626 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 14:21:18.9626 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 14:21:18.9626 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 14:21:18.9626 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 14:21:18.9626 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:21:18.9626 Debug Closing logging configuration...
+2026-08-17 14:21:18.9626 Debug Finished closing logging configuration.
+2026-08-17 14:21:18.9626 Info LogFactory has been disposed.
+2026-08-17 14:21:23.9523 Debug Message Template Auto Format enabled
+2026-08-17 14:21:23.9569 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'target' from section 'NLog'
+2026-08-17 14:21:23.9569 Trace ParseRulesElement
+2026-08-17 14:21:23.9569 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'logfile' not found for logging rule: *.
+2026-08-17 14:21:23.9569 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.1.4.5569. Product version: 6.1.4+a342b92bf5382f108133296098348691f2f29fb1. GlobalAssemblyCache: False
+2026-08-17 14:21:23.9569 Debug AutoReload Config File Monitor refreshing after configuration changed
+2026-08-17 14:21:23.9569 Debug AutoReload Config File Monitor starting
+2026-08-17 14:21:23.9569 Debug Start watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:21:23.9569 Debug --- NLog configuration dump ---
+2026-08-17 14:21:23.9569 Debug Targets:
+2026-08-17 14:21:23.9569 Debug Rules:
+2026-08-17 14:21:23.9569 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]
+2026-08-17 14:21:23.9569 Debug --- End of NLog configuration dump ---
+2026-08-17 14:21:23.9717 Trace FindReachableObject<System.Object>:
+2026-08-17 14:21:23.9717 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ ]'
+2026-08-17 14:21:23.9717 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2026-08-17 14:21:23.9717 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2026-08-17 14:21:23.9717 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2026-08-17 14:21:23.9717 Info Configuration initialized: Targets=0, ConfigItems=1, AutoReload=true, FilePath=D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager\nlog.config
+2026-08-17 14:22:01.6346 Info AppDomain Shutting down. LogFactory closing...
+2026-08-17 14:22:01.6346 Debug LogFactory Starting Flush with timeout=1.5 secs
+2026-08-17 14:22:01.6346 Debug Unregistered shutdown event handler for ProcessExit.
+2026-08-17 14:22:01.6346 Debug AutoReload Config File Monitor stopping, since no active configuration
+2026-08-17 14:22:01.6346 Debug Stop watching file-filter 'nlog.config' in directory: D:\Projects\hossein Abouei\manage-Storage\backend\StorageManager
+2026-08-17 14:22:01.6346 Debug Closing logging configuration...
+2026-08-17 14:22:01.6346 Debug Finished closing logging configuration.
+2026-08-17 14:22:01.6346 Info LogFactory has been disposed.

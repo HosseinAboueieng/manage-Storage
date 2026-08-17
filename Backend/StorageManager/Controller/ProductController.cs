@@ -1,5 +1,7 @@
+using Dto;
 using Entity.EntityPrometre;
 using Interfaces.ServiceManager;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace StorageManager.Controller;
@@ -19,7 +21,7 @@ public class ProductController:ControllerBase
         var products=_service.productService.FindAllProductByName(false);
         return Ok(products);
     }
-    [HttpGet("{id:guid}")]
+    [HttpGet("{id:guid}",Name ="getAProduct")]
     public IActionResult GetProduct(Guid id)
     {
         var product = _service.productService.findProductById(id, false);
@@ -40,5 +42,12 @@ public class ProductController:ControllerBase
         }
         return Ok(product);
     }
-    
+    [HttpPost]
+    public async Task<IActionResult> giveProduct([FromBody] ProductAddDto productAddDto)
+    {
+        if(productAddDto is null)
+        return  BadRequest("We cant found");
+        var product= await _service.productService.cerateProduct(productAddDto);
+        return CreatedAtRoute("getAProduct",new {id= product.id},product);
+    }
 }

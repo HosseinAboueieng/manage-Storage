@@ -33,4 +33,9 @@ public class ProductsRepository :RepositoryBase<Products>,IProductRepository
             return products;
         }
     }
+
+    public async Task  productCreation(Products product)
+    {
+        Create(product);
+    }
 }

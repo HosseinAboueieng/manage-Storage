@@ -1,6 +1,7 @@
 using AutoMapper;
 using Dto;
 using Entity.EntityPrometre;
+using Entity.Models;
 using Interfaces;
 using Interfaces.RepositoryInterFace;
 using Interfaces.ServiceManager;
@@ -21,6 +22,14 @@ public class ProductService:IProductService
         _mapper=mapper;
     }
 
+    public async Task<ProductDto> cerateProduct(ProductAddDto productAddDto)
+    {
+        var product= _mapper.Map<Products>(productAddDto);
+        await _repository.Product.productCreation(product);
+        await _repository.save();
+        return findProductById(product.id,false);
+    }
+
     public IEnumerable<ProductDto> FindAllProductByName( bool trackChanges)
     {
         var products = _repository.Product.GetProducts(trackChanges);
@@ -30,7 +39,7 @@ public class ProductService:IProductService
         product.id,
         product.ProductsName,
         product.companyName,
-        product.groupOfProduct.groupName) );
+        product.groupOfProduct.groupName));
 
         return productDto;
     }
@@ -73,7 +82,8 @@ public class ProductService:IProductService
             poduct.ProductsName,
             poduct.companyName,
             poduct.groupOfProduct.groupName
-            );
+        );
     }
+
 
 }

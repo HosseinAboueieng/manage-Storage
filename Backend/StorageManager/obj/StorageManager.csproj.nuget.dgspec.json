@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\manage Storage\\Backend\\StorageManager\\StorageManager.csproj": {}
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\StorageManager\\StorageManager.csproj": {}
   },
   "projects": {
-    "D:\\manage Storage\\Backend\\Dto\\Dto.csproj": {
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Dto\\Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manage Storage\\Backend\\Dto\\Dto.csproj",
+        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Dto\\Dto.csproj",
         "projectName": "Dto",
-        "projectPath": "D:\\manage Storage\\Backend\\Dto\\Dto.csproj",
-        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-        "outputPath": "D:\\manage Storage\\Backend\\Dto\\obj\\",
+        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Dto\\Dto.csproj",
+        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Dto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -339,22 +345,28 @@
         }
       }
     },
-    "D:\\manage Storage\\Backend\\Entity\\Entity.csproj": {
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manage Storage\\Backend\\Entity\\Entity.csproj",
+        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "D:\\manage Storage\\Backend\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-        "outputPath": "D:\\manage Storage\\Backend\\Entity\\obj\\",
+        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj",
+        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -680,22 +692,28 @@
         }
       }
     },
-    "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj": {
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj",
-        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-        "outputPath": "D:\\manage Storage\\Backend\\Interfaces\\obj\\",
+        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -703,11 +721,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\manage Storage\\Backend\\Dto\\Dto.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Dto\\Dto.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Dto\\Dto.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\Backend\\Dto\\Dto.csproj"
               },
-              "D:\\manage Storage\\Backend\\Entity\\Entity.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Entity\\Entity.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj"
               }
             }
           }
@@ -1028,22 +1046,28 @@
         }
       }
     },
-    "D:\\manage Storage\\Backend\\Repository\\Repository.csproj": {
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manage Storage\\Backend\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\manage Storage\\Backend\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-        "outputPath": "D:\\manage Storage\\Backend\\Repository\\obj\\",
+        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Repository\\Repository.csproj",
+        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1051,11 +1075,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\manage Storage\\Backend\\Entity\\Entity.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Entity\\Entity.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Entity\\Entity.csproj"
               },
-              "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -1370,22 +1394,28 @@
         }
       }
     },
-    "D:\\manage Storage\\Backend\\Service\\Service.csproj": {
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manage Storage\\Backend\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\manage Storage\\Backend\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-        "outputPath": "D:\\manage Storage\\Backend\\Service\\obj\\",
+        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Service\\Service.csproj",
+        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1393,8 +1423,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Interfaces\\Interfaces.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -1715,22 +1745,28 @@
         }
       }
     },
-    "D:\\manage Storage\\Backend\\StorageManager\\StorageManager.csproj": {
+    "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\StorageManager\\StorageManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manage Storage\\Backend\\StorageManager\\StorageManager.csproj",
+        "projectUniqueName": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\StorageManager\\StorageManager.csproj",
         "projectName": "StorageManager",
-        "projectPath": "D:\\manage Storage\\Backend\\StorageManager\\StorageManager.csproj",
-        "packagesPath": "C:\\Users\\H-A\\.nuget\\packages\\",
-        "outputPath": "D:\\manage Storage\\Backend\\StorageManager\\obj\\",
+        "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\StorageManager\\StorageManager.csproj",
+        "packagesPath": "D:\\0_CACHES\\NuGetPackages",
+        "outputPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\StorageManager\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\H-A\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sanpad-U5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1738,11 +1774,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\manage Storage\\Backend\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Repository\\Repository.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Repository\\Repository.csproj"
               },
-              "D:\\manage Storage\\Backend\\Service\\Service.csproj": {
-                "projectPath": "D:\\manage Storage\\Backend\\Service\\Service.csproj"
+              "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Service\\Service.csproj": {
+                "projectPath": "D:\\Projects\\hossein Abouei\\manage-Storage\\backend\\Service\\Service.csproj"
               }
             }
           }

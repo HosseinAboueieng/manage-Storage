@@ -34,3 +34,7 @@ D:\manage Storage\Backend\Service\obj\Debug\net10.0\Service.pdb
 D:\manage Storage\Backend\Service\obj\Debug\net10.0\ref\Service.dll
 D:\manage Storage\Backend\Service\bin\Debug\net10.0\Entity.dll
 D:\manage Storage\Backend\Service\bin\Debug\net10.0\Entity.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Service\bin\Debug\net10.0\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Service\bin\Debug\net10.0\Entity.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Service\bin\Debug\net10.0\Dto.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Service\bin\Debug\net10.0\Entity.pdb

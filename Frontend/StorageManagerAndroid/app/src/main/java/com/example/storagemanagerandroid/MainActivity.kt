@@ -34,6 +34,9 @@ import androidx.compose.ui.graphics.Outline
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.navigation.NavController
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.rememberNavController
 import com.example.storagemanagerandroid.ui.theme.StorageManagerAndroidTheme
 import kotlinx.coroutines.launch
 class MainActivity : ComponentActivity() {
@@ -41,6 +44,14 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
+            val navController= rememberNavController()
+            NavHost(
+                navController = navController,
+                startDestination = "MenuActivity"
+            )
+            {
+
+            }
             StorageManagerAndroidTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Column(modifier = Modifier.padding(innerPadding)) {

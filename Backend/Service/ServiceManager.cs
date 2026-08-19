@@ -18,7 +18,7 @@ public class ServiceManager : ISeviceManager
         _productRepository = new Lazy<IProductService>(() => new ProductService(repositoryManager, loggerManager,mapper));
         _ditsributerRepository = new Lazy<IDistibuterSevice>(() => new DistributerService(repositoryManager, loggerManager));
         _storageRipository = new Lazy<IStorageService>(() => new StorageService(repositoryManager, loggerManager));
-        _groupOfProductRepository = new Lazy<IGroupOfProductSevice>(() => new GroupOfProuductService(repositoryManager, loggerManager));
+        _groupOfProductRepository = new Lazy<IGroupOfProductSevice>(() => new GroupOfProuductService(repositoryManager, loggerManager,mapper));
         _buyFactorRepository = new Lazy<IBuyFactorService>(() => new BuyFactorService(repositoryManager, loggerManager));
     }
 

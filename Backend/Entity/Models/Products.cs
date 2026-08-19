@@ -15,8 +15,6 @@ public class Products
     public  String? ProductsName { get; set; }
     [StringLength(30)]
     public String? companyName { get; set; }
-
-    public ICollection<Storage>? Storages { get; set; }
     public Guid goupProductId { get; set; }
     [ForeignKey(nameof(goupProductId))]
     public GroupOfProduct? groupOfProduct { get; set; }

@@ -8,4 +8,13 @@ public class GroupOfProductRepository:RepositoryBase<GroupOfProduct>,IGoupOfProd
 {
        public GroupOfProductRepository(RepositoryContex repositoryContex):base(repositoryContex){}
 
+    public async Task CreateGroupOfProduct(GroupOfProduct groupOfProduct)
+    {
+        Create(groupOfProduct);
+    }
+
+    public async Task<IEnumerable<GroupOfProduct>> FindAllGroupOfProudct(bool trackChange)
+    {
+       return  FindAll(trackChange).ToList();
+    }
 }

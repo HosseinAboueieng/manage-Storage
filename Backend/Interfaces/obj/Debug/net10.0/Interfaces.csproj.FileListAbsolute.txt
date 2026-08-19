@@ -29,3 +29,8 @@ D:\manage Storage\Backend\Interfaces\obj\Debug\net10.0\Interfaces.sourcelink.jso
 D:\manage Storage\Backend\Interfaces\obj\Debug\net10.0\Interfaces.csproj.Up2Date
 D:\manage Storage\Backend\Interfaces\bin\Debug\net10.0\Entity.dll
 D:\manage Storage\Backend\Interfaces\bin\Debug\net10.0\Entity.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Interfaces\bin\Debug\net10.0\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Interfaces\bin\Debug\net10.0\Entity.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Interfaces\bin\Debug\net10.0\Dto.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Interfaces\bin\Debug\net10.0\Entity.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Interfaces\obj\Debug\net10.0\Interfaces.csproj.Up2Date

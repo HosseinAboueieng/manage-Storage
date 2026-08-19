@@ -10,3 +10,15 @@ D:\manage Storage\Backend\Dto\obj\Debug\net10.0\Dto.dll
 D:\manage Storage\Backend\Dto\obj\Debug\net10.0\refint\Dto.dll
 D:\manage Storage\Backend\Dto\obj\Debug\net10.0\Dto.pdb
 D:\manage Storage\Backend\Dto\obj\Debug\net10.0\ref\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\bin\Debug\net10.0\Dto.deps.json
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\bin\Debug\net10.0\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\bin\Debug\net10.0\Dto.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.AssemblyInfoInputs.cache
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.AssemblyInfo.cs
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.csproj.CoreCompileInputs.cache
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.sourcelink.json
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\refint\Dto.dll
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\Dto.pdb
+D:\Projects\hossein Abouei\manage-Storage\backend\Dto\obj\Debug\net10.0\ref\Dto.dll
